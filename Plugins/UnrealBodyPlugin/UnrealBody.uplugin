@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"FriendlyName": "Unreal Body Plugin",
+	"Description": "Standalone plugin that provides an IK body, with finger collision, animated by 3 tracking points.",
+	"Category": "VR",
+	"CreatedBy": "Kaz Voeten",
+	"CreatedByURL": "https://kazvoeten.com",
+	"DocsURL": "https://github.com/kvoeten/UnrealBodyPlugin",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/kvoeten/UnrealBodyPlugin/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules" :
+	[
+		{
+			"Name" : "UnrealBody",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PostConfigInit",
+			"WhitelistPlatforms" : [ "Win64" ]
+		}
+	]
+}
