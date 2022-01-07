@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealBody.cpp.obj": [
+			"IKCharacterAnimInstance.cpp.obj",
+			"IKBodyComponent.cpp.obj",
+			"UnrealBody.cpp.obj"
+		],
+		"Module.UnrealBody.gen.cpp.obj": [
+			"AnimationStructLibrary.gen.cpp.obj",
+			"CharacterStateLibrary.gen.cpp.obj",
+			"IKBodyComponent.gen.cpp.obj",
+			"IKCharacterAnimInstance.gen.cpp.obj",
+			"UnrealBody.init.gen.cpp.obj"
+		]
+	}
+}

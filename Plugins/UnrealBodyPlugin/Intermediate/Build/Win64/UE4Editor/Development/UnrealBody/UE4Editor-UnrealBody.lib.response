@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealBody.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\UnnamedVRProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\Unreal\UnnamedVRProject\Plugins\UnrealBodyPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealBody\Module.UnrealBody.cpp.obj"
+"E:\Unreal\UnnamedVRProject\Plugins\UnrealBodyPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealBody\Module.UnrealBody.gen.cpp.obj"
+"E:\Unreal\UnnamedVRProject\Plugins\UnrealBodyPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealBody\Default.rc2.res"
+/OUT:"E:\Unreal\UnnamedVRProject\Plugins\UnrealBodyPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealBody\UE4Editor-UnrealBody.lib"
