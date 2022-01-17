@@ -33,6 +33,22 @@
 			"Name": "OnlineSubsystemRedpointEOS",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2c92594ce5aa416c8bfbd79275389e3b"
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealBody",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
